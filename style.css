@@ -1,31 +1,46 @@
-                                                    * {
-                                                        box-sizing: border-box;
-                                                        padding: 30;
-                                                        margin: 25px;
-                                                        display: inline-block;
-                                                    }
-                                                    
-                                                    body {
-                                                        background-color: white;
-                                                        color: blue;
-                                                    }
-                                                    
-                                                    header {
-                                                        padding: 20px;
-                                                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                                                        background-color: aquamarine;
-                                                        color: black;
-                                                    }
-                                                    
-                                                    header h1 {
-                                                        display: inline-block;
-                                                        font-size: 50px;
-                                                    }
-                                                    
-                                                    header h1 .Sami {
-                                                        color: #d9dcd6;
-                                                    }
-                                                    
-                                                    .portfolio ul {
-                                                        display: block;
-                                                    }
+                                                                    * {
+                                                                        box-sizing: inherit;
+                                                                        padding: 30;
+                                                                        margin: 25px;
+                                                                        display: inline-block;
+                                                                        background-color: yellowgreen;
+                                                                    }
+                                                                    
+                                                                    body {
+                                                                        background-color: white;
+                                                                        color: blueviolet;
+                                                                    }
+                                                                    
+                                                                    header {
+                                                                        padding: 20px;
+                                                                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                                                        background-color: aquamarine;
+                                                                        color: black;
+                                                                        background-color: gray;
+                                                                    }
+                                                                    
+                                                                    header img {
+                                                                        border-radius: 8px;
+                                                                        width: 50%;
+                                                                    }
+                                                                    
+                                                                    header h1 {
+                                                                        display: inline-block;
+                                                                        font-size: 50px;
+                                                                    }
+                                                                    
+                                                                    .portfolio ul {
+                                                                        display: block;
+                                                                    }
+                                                                    
+                                                                    .info P {
+                                                                        display: inline;
+                                                                    }
+                                                                    
+                                                                    .portfolio img {
+                                                                        margin: 15;
+                                                                        padding: 30;
+                                                                        border: 20;
+                                                                        font: inherit;
+                                                                        vertical-align: baseline;
+                                                                    }
